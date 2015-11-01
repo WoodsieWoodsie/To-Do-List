@@ -1,0 +1,27 @@
+.container {
+  padding: 15px;
+}
+
+.row {
+  margin-bottom: 15px;
+}
+
+label {
+  margin-right: 15px;
+}
+
+input {
+  margin-right: 15px;
+}
+
+.btn {
+  text-align: center;
+  background-color: #FFCA84;
+  color: #323232;
+}
+
+.when-checked {
+  color: #FFCA84;
+  text-decoration: line-through;
+}
+
